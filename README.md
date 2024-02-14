@@ -6,5 +6,5 @@
  🚀 Full-stack expertise: From front-end finesse to back-end robustness, I've got every aspect of development covered.
  🌟 Commitment to excellence: I believe in delivering nothing short of polished, top-tier products that exceed expectations.
 
-
-
+### Languages and Tools:
+https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a
