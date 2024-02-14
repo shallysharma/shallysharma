@@ -33,12 +33,6 @@
 
 <img src="https://github.com/shallysharma/shallysharma/assets/70771782/6fe0ecab-fe9f-4d2d-a0fb-f9eb9073ee51" alt="img icons8-1" width="60" height="60" style="margin-right: 20px;">
 
-![download-1](https://github.com/shallysharma/shallysharma/assets/70771782/99ff0b48-6aa8-406a-a185-6ddbe62ac211){:width="60" height="60" style="margin-right: 20px;"}
 
-![4248443](https://github.com/shallysharma/shallysharma/assets/70771782/511a6e10-14b7-4f12-a7f1-149b8db8ff67){:width="60" height="60" style="margin-right: 20px;"}
-
-![download-2](https://github.com/shallysharma/shallysharma/assets/70771782/a11009b5-d26a-45b5-920e-33987a449c54){:width="60" height="60" style="margin-right: 20px;"}
-
-![download](https://github.com/shallysharma/shallysharma/assets/70771782/86acd3e7-6941-427b-8901-ce25104eddda){:width="60" height="60" style="margin-right: 20px;"}
 
 
