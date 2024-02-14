@@ -28,3 +28,15 @@
 <img src="https://github.com/shallysharma/shallysharma/assets/70771782/9aa9da10-ac4b-4173-b6e3-321c899daa80" alt="919853" width="60" height="60" style="margin-right: 20px;">
 
 <img src="https://github.com/shallysharma/shallysharma/assets/70771782/a0eb138d-9b07-4f19-9729-d26878b3e15f" alt="919827" width="60" height="60" style="margin-right: 20px;">
+
+<img src="https://github.com/shallysharma/shallysharma/assets/70771782/6133eeaf-4886-4f41-ae60-91c637bfd9cf" alt="img icons8" width="60" height="60" style="margin-right: 20px;">
+
+<img src="https://github.com/shallysharma/shallysharma/assets/70771782/6fe0ecab-fe9f-4d2d-a0fb-f9eb9073ee51" alt="img icons8-1" width="60" height="60" style="margin-right: 20px;">
+
+<img src="https://github.com/shallysharma/shallysharma/assets/70771782/f377e68e-7fc8-4619-909f-43247cf80068" alt="img icons8-2" width="60" height="60" style="margin-right: 20px;">
+
+<img src="https://github.com/shallysharma/shallysharma/assets/70771782/80770a3d-3f99-4b1b-9c8c-ee5b296f054a" alt="img icons8-3" width="60" height="60" style="margin-right: 20px;">
+
+<img src="https://github.com/shallysharma/shallysharma/assets/70771782/f5c720c4-8e5a-4d3c-b24f-5005415ce83a" alt="img icons8-4" width="60" height="60" style="margin-right: 20px;">
+
+<img src="https://github.com/shallysharma/shallysharma/assets/70771782/e7f0759c-1a70-4a5d-a0a5-6718fdd0a7b7" alt="img icons8-5" width="60" height="60" style="margin-right: 20px;">
