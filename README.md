@@ -25,5 +25,3 @@
 <img src="https://github.com/shallysharma/shallysharma/assets/70771782/a0eb138d-9b07-4f19-9729-d26878b3e15f" alt="919827" width="60" height="60" style="margin-right: 40px;">
 <img src="https://github.com/shallysharma/shallysharma/assets/70771782/6133eeaf-4886-4f41-ae60-91c637bfd9cf" alt="img icons8" width="60" height="60" style="margin-right: 40px;">
 <img src="https://github.com/shallysharma/shallysharma/assets/70771782/6fe0ecab-fe9f-4d2d-a0fb-f9eb9073ee51" alt="img icons8-1" width="60" height="60" style="margin-right: 40px;">
-
-
