@@ -7,4 +7,3 @@
  🌟 Commitment to excellence: I believe in delivering nothing short of polished, top-tier products that exceed expectations.
 
 ### Languages and Tools:
-https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a
